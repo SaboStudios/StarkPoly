@@ -1,4 +1,4 @@
-# 🏛️ StarkPoly – Starknet Edition
+# 🏛️ StarkPoly
 
 ## 📌 Overview
 
